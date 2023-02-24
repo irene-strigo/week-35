@@ -1,0 +1,43 @@
+.comments-container {
+    width: 50%;
+    border: solid goldenrod;
+    display: flex;
+    margin: 0 auto;
+    padding: 1em;
+    flex-direction: column;
+}
+
+.visual {
+    height: 15em;
+}
+
+.comments-button {
+    padding: 10px;
+    margin: 10px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border: initial;
+
+}
+
+.random-container {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    flex-direction: column;
+}
+
+.random-button {
+    padding: 10px;
+    margin: 30px;
+    background-color: pink;
+    color: white;
+    border-radius: 5px;
+    border: initial;
+}
+
+
+.comment-area{
+    height: 3em;
+}
